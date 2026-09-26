@@ -1,2 +1,2 @@
 # Algoritmos-e-Pensamento-Computacional
-Exercícios em básicos em C (Faculdade) 
+Exercícios básicos em C (Faculdade) 
